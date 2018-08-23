@@ -35,7 +35,7 @@ export const config = {
 }
 
 export const input = `
-<p>o<em>n<strong>e</strong></em></p>
+<p>o<em>n<strong>e</strong></em><strong>e</strong><strong>e</strong><strong>e</strong><strong>e</strong><strong>e</strong><strong>e</strong><strong>e</strong><strong>e</strong><strong>e</strong><strong>e</strong></p>
 `.trim()
 
 export const output = (
